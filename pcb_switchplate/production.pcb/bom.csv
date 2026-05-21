@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D2, D3, D4, D5, D6, D7, D8, D9",Diode_SMD,19,D,C109203
+"SW1, SW10, SW11, SW13, SW14, SW15, SW16, SW17, SW18, SW19, SW2, SW3, SW4, SW5, SW7, SW8",Lofree_Hotswap_1u(short_pad),16,SW_PUSH,
+"SW12, SW6, SW9",RotaryEncoder_EC12E,3,RotaryEncoder_Switch,
+SW20,K-SILVER JS16,1,K-SILVER_JS16,
+U1,rp2040-zero_rev(THonly),1,rp2040-zero,

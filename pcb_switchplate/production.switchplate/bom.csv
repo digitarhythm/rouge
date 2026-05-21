@@ -1,0 +1,5 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"SW1, SW2, SW4, SW5",SW_Hole_1u,4,RotaryEncoder_Switch,
+"SW10, SW11, SW13, SW14, SW15, SW16, SW17, SW18, SW19, SW3, SW7, SW8",SW_Hole_1u,12,SW_PUSH,
+"SW12, SW6, SW9",SW_Hole_1u(RotEnc),3,SW_PUSH,
+SW20,JS16_Hole,1,JS16_Hole,
